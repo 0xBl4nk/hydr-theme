@@ -3,6 +3,7 @@
     "displayName": "hydr-theme",
     "description": "",
     "version": "0.0.1",
+    "publisher": "hydr",
     "engines": {
         "vscode": "^1.55.0"
     },
