@@ -2,7 +2,7 @@
     "name": "hydr-theme",
     "displayName": "hydr-theme",
     "description": "",
-    "version": "0.0.2",
+    "version": "1.0",
     "publisher": "hydr",
     "engines": {
         "vscode": "^1.55.0"
@@ -15,7 +15,7 @@
             {
                 "label": "hydr-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hydr-theme-color-theme.json"
+                "path": "./themes/hydr.json"
             }
         ]
     }
