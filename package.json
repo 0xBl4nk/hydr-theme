@@ -2,7 +2,7 @@
     "name": "hydr-theme",
     "displayName": "hydr-theme",
     "description": "",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "hydr",
     "engines": {
         "vscode": "^1.55.0"
