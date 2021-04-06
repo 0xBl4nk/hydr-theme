@@ -531,7 +531,7 @@
 		"name": "Keywords",
 		"scope": "keyword",
 		"settings": {
-		  "foreground": "#63b4b8"
+		  "foreground": "#a795ff"
 		}
 	  },
 	  {
@@ -545,7 +545,7 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#ee5696"
+		  "foreground": "#ff7c67d7"
 		}
 	  },
 	  {
@@ -599,28 +599,28 @@
 		  "variable.function"
 		],
 		"settings": {
-		  "foreground": "#6ecd81"
+		  "foreground": "#b0fff4d3"
 		}
 	  },
 	  {
 		"name": "Classes",
 		"scope": "entity.name.type.namespace",
 		"settings": {
-		  "foreground": "#d1c170"
+		  "foreground": "#ffa0de"
 		}
 	  },
 	  {
 		"name": "Classes",
 		"scope": "support.class, entity.name.type.class",
 		"settings": {
-		  "foreground": "#d1c170"
+		  "foreground": "#ffa0de"
 		}
 	  },
 	  {
 		"name": "Class name",
 		"scope": "entity.name.class.identifier.namespace.type",
 		"settings": {
-		  "foreground": "#d1c170"
+		  "foreground": "#ffa0de"
 		}
 	  },
 	  {
@@ -631,14 +631,14 @@
 		  "variable.other.class.ts"
 		],
 		"settings": {
-		  "foreground": "#d1c170"
+		  "foreground": "#ffa0de"
 		}
 	  },
 	  {
 		"name": "Class name php",
 		"scope": "variable.other.class.php",
 		"settings": {
-		  "foreground": "#ee5696"
+		  "foreground": "#ffa0de"
 		}
 	  },
 	  {
@@ -666,7 +666,7 @@
 		"name": "Methods",
 		"scope": "keyword.other.special-method",
 		"settings": {
-		  "foreground": "#6ecd81"
+		  "foreground": "#b0fff4d3"
 		}
 	  },
 	  {
@@ -736,7 +736,7 @@
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
-		  "foreground": "#de916a"
+		  "foreground": "#a983fd"
 		}
 	  },
 	  {
@@ -1688,7 +1688,7 @@
 		  "invalid.xi"
 		],
 		"settings": {
-		  "foreground": "#9ca1d9"
+		  "foreground": "#2dd8ff"
 		}
 	  },
 	  {
@@ -1706,7 +1706,7 @@
 		  "beginning.punctuation.definition.list.markdown.xi"
 		],
 		"settings": {
-		  "foreground": "#ab5f5f"
+		  "foreground": "#acd8db77"
 		}
 	  },
 	  {
@@ -1715,7 +1715,7 @@
 		  "constant.character.xi"
 		],
 		"settings": {
-		  "foreground": "#6ecd81"
+		  "foreground": "#ffffff"
 		}
 	  },
 	  {
@@ -1912,7 +1912,7 @@
 	  "input.placeholderForeground": "#6872b0",
 	  "textLink.foreground": "#ff53b4",
 	  "editor.background": "#1b1d2a",
-	  "editor.foreground": "#9ca1d9",
+	  "editor.foreground": "#acd8db77",
 	  "editorLineNumber.foreground": "#3c4160",
 	  "editorCursor.foreground": "#ad4f84",
 	  "editorCursor.background": "#000000",
