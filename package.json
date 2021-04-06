@@ -1,8 +1,8 @@
 {
     "name": "hydr-theme",
     "displayName": "hydr-theme",
-    "description": "",
-    "version": "1.0.2",
+    "description": "Hydr-Theme was created for pink and blue lovers programmers <3",
+    "version": "1.1.0",
     "publisher": "hydr",
     "engines": {
         "vscode": "^1.55.0"
@@ -10,6 +10,17 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"hydr",
+		"dark",
+		"theme",
+		"color-theme"
+    ],
+    "icon": "icon.png",
+	"galleryBanner": {
+		"color": "#3c4557",
+		"theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
