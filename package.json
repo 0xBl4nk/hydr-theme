@@ -2,7 +2,7 @@
     "name": "hydr-theme",
     "displayName": "hydr-theme",
     "description": "Hydr-Theme was created for pink and blue lovers programmers <3",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "publisher": "hydr",
     "engines": {
         "vscode": "^1.55.0"
@@ -12,6 +12,8 @@
     ],
     "keywords": [
 		"hydr",
+        "hy",
+        "hydr-theme",
 		"dark",
 		"theme",
 		"color-theme"
