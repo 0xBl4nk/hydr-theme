@@ -5,7 +5,7 @@
     "version": "1.5.3",
     "publisher": "hydr",
     "engines": {
-        "vscode": "^2.0.0"
+        "vscode": "^1.10.0"
     },
     "categories": [
         "Themes"
